@@ -1,1 +1,1 @@
-# Excercise for Machine Intelligence, SoSe21.
+# Excercise for Machine Intelligence, SoSe21 @TUberin.
