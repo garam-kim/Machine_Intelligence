@@ -1,1 +1,1 @@
-# SS21_MI2
+# Excercise for Machine Intelligence, SoSe21.
